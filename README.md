@@ -1,0 +1,1 @@
+Still working upon machine learning part to chose two cointegrated pairs by doing PCA analysis and then applying K-means cluster algorithm with RSI index as the factor to choose the best cluster with momentum and then choosing the pairs among those companies.
